@@ -1,0 +1,5 @@
+{
+  "timeout_seconds": 15,
+  "retries": 2,
+  "notes": "No credentials are required for the provided public practice sites."
+}
